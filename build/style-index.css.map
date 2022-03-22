@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACE;EACA;AACF,C","sources":["webpack://wordpress-react-plugin-boilerplate/./src/style.scss"],"sourcesContent":[":root {\r\n  --main-color: #3b2642;\r\n  --secondary-color: #faae3b;\r\n}\r\n"],"names":[],"sourceRoot":""}
